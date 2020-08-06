@@ -2,6 +2,8 @@
 
 Contains the ISM as downloaded 1930hrs AEST from cyber.gov.au.
 
+Please ensure you read the DISCLAIMER, and visit ACSC for more.
+
 This will be used for some other projects.
 
 # suboptimal pack - out of memory
