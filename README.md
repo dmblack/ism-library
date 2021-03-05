@@ -1,10 +1,20 @@
 # ism-library
 
-Contains the ISM as downloaded 1930hrs AEST from cyber.gov.au.
+Contains the ISM as downloaded from cyber.gov.au.
 
 Please ensure you read the DISCLAIMER, and visit ACSC for more.
 
 This will be used for some other projects.
+
+# Contrib
+
+Files were independently downloaded. SHA256 checksum generated and added
+to manifest.
+
+# Usage
+
+As there's currently no other means of integrity validation with these
+files, this is the next best option.
 
 # suboptimal pack - out of memory
 So... the total size of these is a little larger than I anticipated.
