@@ -11,6 +11,12 @@ This will be used for some other projects.
 Files were independently downloaded. SHA256 checksum generated and added
 to manifest.
 
+FTP the latest updates into src directory;
+```ftp <url>```
+
+Generate hash, and add to SHA256 file.
+```sha256 <result> >> SHA256``` 
+
 # Usage
 
 As there's currently no other means of integrity validation with these
