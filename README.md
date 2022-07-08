@@ -17,6 +17,8 @@ FTP the latest updates into src directory;
 Generate hash, and add to SHA256 file.
 ```sha256 <result> >> SHA256``` 
 
+(If using linux, sha256sum, use --tag for BSD style generation)
+
 # Usage
 
 As there's currently no other means of integrity validation with these
